@@ -82,3 +82,4 @@
 | 77 | Vacuum & Maintenance | Idle Transactions Cause Table Bloat | Understanding bloat causes | https://stormatics.tech/blogs/idle-transactions-cause-table-bloat-wait-what |
 | 78 | Performance Tuning | pgtuner | PostgreSQL configuration tuning tool | https://ichirutake.github.io/pgtuner/ |
 | 79 | AWS Upgrade Management | AWS Organizations Upgrade Rollout Policy | Centralized RDS/Aurora patch management | https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/ |
+| 80 | Plain Vacuum | Can a Plain VACUUM Reclaim Disk Space? A Test Case | Demonstrates how a regular VACUUM can sometimes reclaim disk space by truncating empty pages at the end of a table file, challenging the common belief that only VACUUM FULL returns disk space to the OS. | https://anthonysotolongo.wordpress.com/2025/03/10/can-a-plain-vacuum-reclaim-disk-space-a-test-case/ | |
