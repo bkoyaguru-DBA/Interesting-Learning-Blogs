@@ -1,4 +1,4 @@
-## PostgreSQL Vacuum & Storage Reclamation Articles
+## PostgreSQL Articles
 
 | # | Article Title | Description | URL |
 |---|--------------|-------------|-----|
